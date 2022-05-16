@@ -1,0 +1,73 @@
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Administrateur\source\repos\UberApp\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Administrateur\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\HP\OneDrive\Bureau\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\khale\Desktop\examenkhaledbattiche\NomPrenom\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
