@@ -8,6 +8,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PS.Data.Infrastructure;
+using Service.Abonne;
+using Service.Livre;
+using Service.Categorie;
+using Service.PretLivre;
 
 namespace Web
 {
@@ -23,6 +27,13 @@ namespace Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IDataBaseFactory, DataBaseFactory>();
+            services.AddScoped<IAbonneService, AbonneService>();
+            services.AddScoped<ILivreService, LivreService>();
+            services.AddScoped<ICategorieService, CategorieService>();
+            services.AddScoped<IPretLivreService, PretLivreService>();
+            
             services.AddControllersWithViews();
         }
 
@@ -47,7 +58,7 @@ namespace Web
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Course}/{action=Index}/{id?}");
+                    pattern: "{controller=Livre}/{action=Index}/{id?}");
             });
         }
     }
